@@ -1,0 +1,23 @@
+{
+  "name": "reactjs-boilerplate",
+  "version": "1.0.0",
+  "description": "React BoilerPlate at its simplest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usmanali598/ReactJS-BoilerPlate.git"
+  },
+  "author": "Usman Ali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/usmanali598/ReactJS-BoilerPlate/issues"
+  },
+  "homepage": "https://github.com/usmanali598/ReactJS-BoilerPlate#readme",
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
